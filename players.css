@@ -1,0 +1,28 @@
+h1{
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+h4{
+
+
+  margin-left: 10%;
+
+
+}
+
+tr{
+  text-align: center;
+}
+
+table{
+  position: relative;
+
+}
+.btn2{
+  padding: 2% 50% 2% 50%;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   text-align: center;
+}
